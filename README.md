@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+An aspiring full-stack developer from the Philippines 🇵🇭
 <!--
 **louith/louith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 Reach me at: llcseprado@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/louise-lynne-seprado-78bb22256/) | [Facebook](https://www.facebook.com/louiselynne.seprado) | [Instagram](https://www.instagram.com/loyselll/) 
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=sepradoloys&color=blue)
