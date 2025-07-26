@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 -->
 
 📫 Connect with me:
-
-🌐 [!Facebook](https://www.facebook.com/louiselynne.seprado)  
-📸 [!Instagram](https://www.instagram.com/loyselll/)  
-💼 [!LinkedIn](https://www.linkedin.com/in/louise-lynne-seprado-78bb22256/)  
-📧 [!Email me](mailto:llcseprado@gmail.com)
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/louiselynne.seprado)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/loyselll/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louise-lynne-seprado-78bb22256/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:llcseprado@gmail.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sepradoloys&color=blue)
