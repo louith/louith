@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 Reach me at: llcseprado@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/louise-lynne-seprado-78bb22256/) | [Facebook](https://www.facebook.com/louiselynne.seprado) | [Instagram](https://www.instagram.com/loyselll/) 
+📫 Connect with me:
+
+🌐 [Facebook](https://www.facebook.com/louiselynne.seprado)  
+📸 [Instagram](https://www.instagram.com/loyselll/)  
+💼 [LinkedIn](https://www.linkedin.com/in/louise-lynne-seprado-78bb22256/)  
+📧 [Email me](mailto:llcseprado@gmail.com)
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sepradoloys&color=blue)
