@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🛠️ Languages & Tools:
-
-
+---
 #### Mobile Development: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-59D5E0?style=flat&logo=riverpod&logoColor=white)
 
 #### Web Development: 
