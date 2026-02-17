@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A mobile developer & aspiring full-stack developer from the Philippines 🇵🇭
+Mobile Developer expanding into Full-Stack Development, gaining hands-on experience across frontend, backend, and APIs. 🇵🇭
 <!--
 **louith/louith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
